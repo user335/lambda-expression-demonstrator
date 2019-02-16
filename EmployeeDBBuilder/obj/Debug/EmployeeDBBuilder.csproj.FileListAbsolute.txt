@@ -1,0 +1,7 @@
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\employee-database-builder\EmployeeDBBuilder\EmployeeDBBuilder\bin\Debug\EmployeeDBBuilder.exe.config
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\employee-database-builder\EmployeeDBBuilder\EmployeeDBBuilder\bin\Debug\EmployeeDBBuilder.exe
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\employee-database-builder\EmployeeDBBuilder\EmployeeDBBuilder\bin\Debug\EmployeeDBBuilder.pdb
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\employee-database-builder\EmployeeDBBuilder\EmployeeDBBuilder\obj\Debug\EmployeeDBBuilder.csprojAssemblyReference.cache
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\employee-database-builder\EmployeeDBBuilder\EmployeeDBBuilder\obj\Debug\EmployeeDBBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\employee-database-builder\EmployeeDBBuilder\EmployeeDBBuilder\obj\Debug\EmployeeDBBuilder.exe
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\employee-database-builder\EmployeeDBBuilder\EmployeeDBBuilder\obj\Debug\EmployeeDBBuilder.pdb
